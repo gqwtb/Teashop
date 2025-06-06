@@ -1,0 +1,14 @@
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\bin\Debug\Teashop.exe.config
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.csprojResolveAssemblyReference.cache
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_Login.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_User.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Properties.Resources.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.csproj.GenerateResource.Cache
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\bin\Debug\Teashop.exe
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\bin\Debug\Teashop.pdb
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.exe
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.pdb
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_Member.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_Tea.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_Main.resources
+C:\Users\21106\Desktop\.NET体系结构与应用开发\case\Teashop\Teashop\obj\Debug\Teashop.Frm_Price.resources
